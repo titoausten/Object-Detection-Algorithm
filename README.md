@@ -5,8 +5,8 @@ This repository contains Object Detection algorithms for both YOLO and SSD archi
 <hr>
 
 ## Code
-* [YOLO Algorithm](https://github.com/titoausten/NBA-Career-Longevity-Prediction-/blob/main/AI%20Challenge%20NBR.ipynb)
-* [SSD Algorithm](https://github.com/titoausten/NBA-Career-Longevity-Prediction-/blob/main/AI%20Challenge%20NBR.ipynb)
+* [YOLO Algorithm](https://github.com/titoausten/Object-Detection-Algorithm/blob/main/YoloImageDetection.py)
+* [SSD Algorithm](https://github.com/titoausten/Object-Detection-Algorithm/blob/main/SSDImageDetection.py)
 <hr>
 
 ## Author
